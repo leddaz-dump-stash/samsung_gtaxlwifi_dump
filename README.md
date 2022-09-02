@@ -1,0 +1,14 @@
+# gtaxlwifixx-user 8.1.0 M1AJQ T580XXS5CTK1 release-keys
+- manufacturer: samsung
+- platform: exynos5
+- codename: gtaxlwifi
+- flavor: gtaxlwifixx-user
+- release: 8.1.0
+- id: M1AJQ
+- incremental: T580XXS5CTK1
+- tags: release-keys
+- fingerprint: samsung/gtaxlwifixx/gtaxlwifi:8.1.0/M1AJQ/T580XXS5CTK1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: gtaxlwifixx-user-8.1.0-M1AJQ-T580XXS5CTK1-release-keys
+- repo: samsung_gtaxlwifi_dump

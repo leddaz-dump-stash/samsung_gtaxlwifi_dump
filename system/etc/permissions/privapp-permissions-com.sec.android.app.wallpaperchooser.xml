@@ -1,0 +1,6 @@
+<permissions>
+    <privapp-permissions package="com.sec.android.app.wallpaperchooser">
+        <permission name="android.permission.BIND_WALLPAPER"/>
+        <permission name="android.permission.SET_WALLPAPER_COMPONENT"/>
+    </privapp-permissions>
+</permissions>
